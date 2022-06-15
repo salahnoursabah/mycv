@@ -1,0 +1,99 @@
+body {
+    overflow-x: hidden;
+    background-image: url(https://static.vecteezy.com/system/resources/previews/002/091/379/original/modern-abstract-red-and-gold-stripes-on-white-background-elegant-concept-design-design-template-for-frame-cover-banner-card-use-free-vector.jpg);
+}
+
+section {
+    margin: 50px;
+    position: relative;
+    left: 200px;
+}
+
+.col {
+    height: 1100px;
+}
+
+.col2 {
+    background-color: #D41C22;
+    position: relative;
+    right: 12px;
+    height: 1100px;
+}
+
+.img1 {
+    width: 200px;
+    height: 150PX;
+    margin: 10px;
+    position: relative;
+    left: 40px;
+}
+
+.img2 {
+    width: 20px;
+    height: 20px;
+    color: white;
+}
+
+.bg1 {
+    width: 50%;
+    height: 20px;
+}
+
+.text2 {
+    position: relative;
+    top: 10px;
+}
+
+.text3 {
+    position: relative;
+    top: 2px;
+}
+
+.html {
+    color: #E47323;
+    width: 50px;
+    height: 50px;
+}
+
+.css {
+    color: #2449D8;
+    width: 50px;
+    height: 50px;
+}
+
+.js {
+    color: #EAD41C;
+    width: 50px;
+    height: 50px;
+}
+
+.react {
+    color: #06D1F2;
+    width: 50px;
+    height: 50px;
+}
+
+.boot {
+    width: 50px;
+    height: 50px;
+}
+
+#p1 {
+    background-color: #E47323;
+}
+
+#p2 {
+    background-color: #2449D8;
+}
+
+#p3 {
+    background-color: #EAD41C;
+}
+
+#p4 {
+    background-color: #06D1F2;
+}
+
+#p5 {
+    background-color: #7911F7;
+}
